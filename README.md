@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vashista%20C%20V&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Project%20Student%20@%20ISRO-NRSC%20|%20AI/ML%20Engineer&descAlignY=55&descSize=20" />
+
 # Vashista C V
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Project+Student+%40+ISRO-NRSC;AI%2FML+Engineer+%7C+Deep+Learning+Specialist;Satellite+Data+Scientist;Published+Researcher)](https://git.io/typing-svg)
@@ -376,15 +378,16 @@ September 2025 - Present
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=333333&bg_color=ffffff)
+<a href="https://github.com/vasistacv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&theme=default&hide_border=true&title_color=6366F1&text_color=333333&bg_color=ffffff&langs_count=8"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasistacv&theme=default&hide_border=true&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6&background=ffffff&stroke=333333)
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vasistacv&theme=default&hide_border=true&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6&background=ffffff&stroke=333333&dates=333333&sideNums=333333&sideLabels=333333&currStreakNum=6366F1"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&theme=default&hide_border=true&title_color=6366F1&text_color=333333&bg_color=ffffff&langs_count=8)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=github-compact&hide_border=true&bg_color=ffffff&color=6366F1&line=8B5CF6&point=333333&area=true&area_color=6366F1"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=github-compact&hide_border=true&bg_color=ffffff&color=6366F1&line=8B5CF6&point=333333)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vasistacv&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10)
+<img src="https://github-profile-trophy.vercel.app/?username=vasistacv&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
 
