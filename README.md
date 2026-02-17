@@ -1,28 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:160637,50:2d1065,75:160637,100:0d0221&height=250&section=header&text=Vashista%20C%20V&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Deep%20Learning%20Researcher&descAlignY=62&descSize=17&descColor=c084fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,20:130544,50:2d1065,80:130544,100:0d0221&height=280&section=header&text=Vashista%20C%20V&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Specialist%20%E2%80%A2%20Deep%20Learning%20Researcher&descAlignY=63&descSize=17&descColor=c084fc"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Aspiring+Software+Engineer+%7C+B.E.+CSE+%40+JIT+Davangere;%E2%98%95+Java+%7C+Python+%7C+DSA+%7C+AWS+%7C+DevOps+%7C+System+Design;%F0%9F%A7%A0+AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;%F0%9F%9B%B0%EF%B8%8F+Former+Project+Student+%40+ISRO-NRSC+Hyderabad;%F0%9F%8F%86+Published+Researcher+%7C+1st+Place+Hackathon+%7C+5%C3%97+Intern)](https://github.com/vasistacv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Aspiring+Software+Engineer+%7C+B.E.+CSE+%40+JIT+Davangere;%E2%98%95+Java+%7C+Python+%7C+DSA+%7C+AWS+%7C+DevOps+%7C+System+Design;%F0%9F%A7%A0+AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;%F0%9F%9B%B0%EF%B8%8F+Former+Project+Student+%40+ISRO-NRSC+%7C+Hyderabad;%F0%9F%8F%86+Published+Researcher+%7C+1st+Place+Hackathon+%7C+5%C3%97+Intern;%F0%9F%8C%90+Portfolio%3A+portfolio-vasistacv.vercel.app)](https://portfolio-vasistacv.vercel.app)
 
-<br/>
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vashistacv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236D28D9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
-[![Samarth AI](https://img.shields.io/badge/Samarth_AI_🌾-Live-%2310B981.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://projectsamarth.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-%236D28D9?style=for-the-badge)](https://portfolio-vasistacv.vercel.app)
+[![Samarth AI](https://img.shields.io/badge/🌾_Samarth_AI-Live_Demo-%2310B981?style=for-the-badge)](https://projectsamarth.vercel.app)
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vasistacv&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=vasistacv&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Available-%2322c55e?style=for-the-badge)
 &nbsp;
-![Grad Year](https://img.shields.io/badge/Graduating-May_2026-%23c084fc?style=for-the-badge)
+![Grad](https://img.shields.io/badge/🎓_Graduating-May_2026-%23c084fc?style=for-the-badge)
+&nbsp;
+![CGPA](https://img.shields.io/badge/📊_CGPA-8.8%2F10-%23a855f7?style=for-the-badge)
 
 </div>
 
@@ -32,38 +36,40 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
-**Aspiring Software Engineer** with a strong foundation in Java, Python, DSA, and AI/ML. Currently a final-year B.E. CSE student (CGPA 8.8) at Jain Institute of Technology, Davangere — graduating May 2026.
+**Aspiring Software Engineer** — final-year B.E. CSE at Jain Institute of Technology, Davangere (CGPA 8.8/10, graduating May 2026).
 
-Formerly at **ISRO-NRSC** where I applied AI/ML and Deep Learning to real satellite data. Also a **published researcher**, **hackathon winner**, and **5× intern**.
+Formerly at **ISRO-NRSC, Hyderabad** applying AI/ML and Deep Learning to real satellite imagery and climate data. A **published researcher** in cryptography, **1st-place hackathon winner**, and **5× intern** across data science, ML, Python, and AI domains.
 
-My goal: Build scalable, intelligent systems that solve real-world problems at enterprise scale.
+Core belief: *Write code that humans can read, machines can run, and future-you will thank you for.*
 
 ```
-🔥 Currently grinding DSA + Java + System Design
-☁️ Learning AWS Cloud + DevOps pipelines
-🏗️ Building production AI/ML apps
-🎯 Targeting SWE / ML Engineer roles
+📍 Davanagere, Karnataka, India
+🎓 B.E. CSE — JIT Davangere (2022–2026)
+🛰️ Ex ISRO-NRSC — AI/ML on Satellite Data
+📄 Published — IJPREMS, December 2024
+🏆 1st Place — Mysterio 2025, JNNCE
+🟢 Actively seeking SWE / ML Engineer roles
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top" align="center">
 
-## ⚡ Quick Stats
+## ⚡ Snapshot
 
 | | |
-|---|---|
-| 🎓 **Degree** | B.E. CSE — CGPA 8.8/10 |
-| 🏛️ **College** | JIT Davangere (2022–2026) |
-| 📍 **Location** | Davanagere, Karnataka, India |
+|:---|:---|
+| 🎓 **Degree** | B.E. CSE — CGPA **8.8 / 10** |
+| 🏛️ **College** | JIT Davangere (2022–26) |
 | 💼 **Experience** | 5 Internships + ISRO-NRSC |
-| 🛰️ **ISRO Role** | AI/ML on Satellite Data |
-| 📄 **Publication** | IJPREMS — Dec 2024 |
-| 🏆 **Award** | 1st Place — Mysterio 2025 |
+| 🛰️ **ISRO Role** | AI/ML · Satellite Data · 3D-CNN |
+| 📄 **Published** | IJPREMS — Dec 2024 |
+| 🏆 **Award** | 1st Place Mysterio 2025 |
 | 🚀 **Live App** | projectsamarth.vercel.app |
+| 🌐 **Portfolio** | portfolio-vasistacv.vercel.app |
 | 📬 **Email** | vasisthamanju796@gmail.com |
 | 🟢 **Status** | Open to Work |
 
@@ -73,17 +79,123 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 
 ---
 
-## 🛠️ Technical Stack
+## 🏗️ `VashistaCV.java`
+
+```java
+/**
+ * @author   Vashista C V
+ * @version  2026.1
+ * @since    2022
+ * @see      https://portfolio-vasistacv.vercel.app
+ */
+public final class VashistaCV extends SoftwareEngineer
+    implements AIMLEngineer, DataScientist, Researcher, HackathonWinner {
+
+    // ── Identity ──────────────────────────────────────────────────────────────
+    static final String NAME        = "Vashista C V";
+    static final String LOCATION    = "Davanagere, Karnataka, India";
+    static final String EMAIL       = "vasisthamanju796@gmail.com";
+    static final String PORTFOLIO   = "https://portfolio-vasistacv.vercel.app";
+    static final String LIVE_APP    = "https://projectsamarth.vercel.app";
+    static final String GITHUB      = "https://github.com/vasistacv";
+    static final String DEGREE      = "B.E. CSE  |  CGPA: 8.8 / 10.0";
+    static final String COLLEGE     = "Jain Institute of Technology, Davangere";
+    static final String GRAD_YEAR   = "May 2026";
+
+    // ── Languages ─────────────────────────────────────────────────────────────
+    String[] languages   = { "Java", "Python", "C", "SQL", "JavaScript" };
+
+    // ── SWE Core ──────────────────────────────────────────────────────────────
+    String[] sweCore     = { "OOP", "DSA", "Design Patterns", "System Design",
+                              "SOLID Principles", "SDLC", "Agile", "Clean Code" };
+
+    // ── Cloud & DevOps ────────────────────────────────────────────────────────
+    String[] cloudDevOps = { "AWS", "Docker", "Git", "GitHub Actions",
+                              "CI/CD", "Linux", "Vercel" };
+
+    // ── AI/ML Stack ───────────────────────────────────────────────────────────
+    String[] aiml       = { "TensorFlow", "PyTorch", "Keras", "Scikit-Learn",
+                             "LangChain", "OpenCV", "XGBoost", "HuggingFace" };
+
+    // ── Currently Mastering ───────────────────────────────────────────────────
+    String[] grinding    = {
+        "DSA — LeetCode daily (Arrays → Trees → Graphs → DP)",
+        "Java — OOP, Collections, Concurrency, Spring Boot",
+        "System Design — HLD, LLD, Scalability, DB Design",
+        "AWS — EC2, S3, Lambda, IAM, VPC, Cloud Architecture",
+        "DevOps — Docker, CI/CD pipelines, GitHub Actions",
+        "Production AI/ML app development & deployment"
+    };
+
+    // ── Key Milestones ────────────────────────────────────────────────────────
+    Map<String, String> milestones = Map.of(
+        "ISRO-NRSC",    "AI/ML on satellite data at India's national space org",
+        "Publication",  "IJPREMS peer-reviewed journal, December 2024",
+        "Hackathon",    "1st Place — Mysterio 2025, JNNCE Shivamogga",
+        "Samarth AI",   "Production RAG system live at projectsamarth.vercel.app",
+        "Internships",  "5× across Data Science, ML, Python, AI domains"
+    );
+
+    // ── Core Philosophy ───────────────────────────────────────────────────────
+    @Override
+    public String getPhilosophy() {
+        return "Write code humans can read, machines can run, " +
+               "and future-you will thank you for.";
+    }
+
+    @Override
+    public String getGoal() {
+        return "Build scalable, intelligent systems that solve real problems " +
+               "at enterprise scale — and keep shipping.";
+    }
+
+    boolean isOpenToWork()              { return true; }
+    boolean lovesAlgorithms()           { return true; }
+    boolean drinksMoreCoffeeThanWater() { return true; }
+    boolean neverStopsLearning()        { return true; }
+    boolean hasLiveProductionApp()      { return true; }
+}
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&bg_color=0d0d1a&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d0d1a&langs_count=8&cache_seconds=86400" height="175"/>
 
-![Java](https://img.shields.io/badge/Java-Expert-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Proficient-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vasistacv&theme=tokyonight&hide_border=true&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&background=0d0d1a&stroke=2d1065&dates=94a3b8&border=0d0d1a" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=2d1065&radius=6" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vasistacv&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" width="68%"/>
+
+</div>
+
+---
+
+## 🛠️ Full Technical Stack
+
+<div align="center">
+
+### 💻 Programming Languages & Skill Level
+
+| Language | Proficiency | Primary Use |
+|:---|:---:|:---|
+| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) **Python** | `████████████` **Expert** | AI/ML, Data Science, APIs, Automation, Scripting |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) **Java** | `██████████░░` **Advanced** | OOP, DSA, Backend, Spring Boot |
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) **C** | `████████░░░░` **Proficient** | Systems Programming, Algorithms |
+| ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) **SQL** | `██████████░░` **Advanced** | DB Design, Complex Queries, Optimization |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `██████░░░░░░` **Intermediate** | Frontend, Node.js, REST APIs |
 
 </div>
 
@@ -93,25 +205,33 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🤖 AI / ML / DL
+### 🤖 AI / ML / Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=flat-square)
+
+**Skill Meters (from portfolio)**
+
+`Computer Vision   ████████░░ 85%`
+`Data Science      █████████░ 90%`
+`NLP / LLMs        ███████░░░ 75%`
+`Cybersecurity     ████████░░ 80%`
+`Cryptography      ███████░░░ 70%`
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Infra
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
@@ -124,6 +244,14 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Skill Meters (from portfolio)**
+
+`Full Stack Dev    █████████░ 92%`
+`SQL & Databases   █████████░ 95%`
+`Git & DevOps      █████████░ 91%`
+`Machine Learning  ████████░░ Expert`
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -137,38 +265,25 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-%23009688.svg?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-%23121D33.svg?style=flat-square&logo=blockchain.com&logoColor=white)
+
+### ⚙️ SWE Fundamentals
+
 ![OOP](https://img.shields.io/badge/OOP-Design_Patterns-%237C3AED.svg?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-Algorithms-%236D28D9.svg?style=flat-square)
 ![System Design](https://img.shields.io/badge/System-Design-%238B5CF6.svg?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-%23A78BFA.svg?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-Agile-%23A78BFA.svg?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-%23C084FC.svg?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean-Code-%23DDD6FE.svg?style=flat-square)
+
+**Specialized Tools**
+
+![NetCDF4](https://img.shields.io/badge/NetCDF4-Climate_Data-%234285F4.svg?style=flat-square)
+![GDAL](https://img.shields.io/badge/GDAL-Geospatial-%235CAE58.svg?style=flat-square)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&bg_color=0d0d1a&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d0d1a&langs_count=8&cache_seconds=86400" height="175"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vasistacv&theme=tokyonight&hide_border=true&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&background=0d0d1a&stroke=2d1065&dates=94a3b8&border=0d0d1a" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=2d1065&radius=6" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vasistacv&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" width="70%"/>
-
-</div>
 
 ---
 
@@ -176,48 +291,113 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 
 <div align="center">
 
-| Period | Role | Company | Key Tech |
-|:---:|:---|:---|:---|
-| Sep–Jan 2025/26 | 🛰️ **Project Student** | **ISRO-NRSC, Hyderabad** | Python · TensorFlow · 3D-CNN · NetCDF4 |
-| Jul–Aug 2025 | 🤖 **AI/ML Intern** | **Edunet (AICTE + Shell India)** | ML Pipelines · DL · LLMs · Deployment |
-| Feb–May 2025 | 🐍 **Python Dev Intern** | **MotionCut** | OOP · Automation · Design Patterns |
-| Nov–Dec 2024 | 🧪 **ML Intern** | **Cognifyz Technologies** | Scikit-learn · Random Forest · Feature Eng |
-| Jun–Jul 2024 | 📊 **Data Science Intern** | **Brainwave Matrix Solutions** | Pandas · NumPy · EDA · BI Reports |
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                        C A R E E R   T I M E L I N E
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  2024      ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2026 →
+            │                                                          │
+         Jun 2024           Nov 2024      Feb 2025    Jul 2025  Sep 2025
+            │                  │              │           │          │
+     Brainwave           Cognifyz        MotionCut    Edunet     ISRO-NRSC
+   Data Science           ML Intern       Python     AI/ML       🚀 Now
+     Intern              Intern          Intern      Intern
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 <br/>
 
+<!--- ═══════════ ISRO ═══════════ --->
+
 <details open>
-<summary><b>🛰️ ISRO-NRSC, Hyderabad — Project Student &nbsp;|&nbsp; Sep 2025 – Jan 2026</b></summary>
+<summary>
+<b>&nbsp;🛰️&nbsp; ISRO-NRSC, Hyderabad &nbsp;—&nbsp; Project Student &nbsp;|&nbsp; Sep 2025 – Jan 2026 &nbsp;|&nbsp; On-site</b>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Most_Recent-%23FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/ISRO-National_Space_Org-%23c084fc?style=flat-square"/>
+</summary>
 
 <br/>
 
-> **What I actually did:** Applied AI/ML and Deep Learning to process satellite imagery and climate data at India's National Remote Sensing Centre. This was **software/AI engineering** — not space or satellite hardware work.
+> 🔬 **What I actually did:** Applied AI/ML and Deep Learning to process and classify satellite imagery and climate data at India's premier space research org. This was **software & AI engineering work** — not satellite hardware or space systems.
 
 <br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%" valign="top">
 
-**Technologies Used**
+**🔧 Tech Stack Used**
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
 
 `3D-CNN` · `NetCDF4` · `GDAL` · `Remote Sensing`
 
 </td>
-<td width="50%">
+<td width="60%" valign="top">
 
-**What I Built**
-- Deep learning models on multi-spectral satellite imagery
-- Spatio-temporal 3D-CNN for weather pattern extraction
-- Climate data preprocessing pipelines at scale
-- Environmental monitoring research tools
+**🚀 Key Contributions**
+
+- Designed and trained **3D-CNN architectures** for spatio-temporal pattern extraction from satellite data
+- Built preprocessing pipelines for large-scale **multi-spectral NetCDF climate data**
+- Applied **Transfer Learning** to improve model convergence on limited satellite training sets
+- Contributed to **environmental monitoring & meteorological forecasting** research at national scale
+- Collaborated with ISRO scientists on applied AI for remote sensing applications
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| Domain | Satellite Data Processing | AI Techniques | Remote Sensing Applications | Scale |
+|:---|:---|:---|:---|:---|
+| 🛰️ Space Data | NetCDF · GDAL · GeoTIFF | 3D-CNN · Transfer Learning · LSTM | Climate Analysis · Land Use | National Level |
+
+</details>
+
+<br/>
+
+<!--- ═══════════ EDUNET ═══════════ --->
+
+<details>
+<summary>
+<b>&nbsp;🤖&nbsp; Edunet Foundation (AICTE + Shell India) &nbsp;—&nbsp; AI/ML Intern &nbsp;|&nbsp; Jul–Aug 2025 &nbsp;|&nbsp; Remote</b>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Skills4Future_Program-%23a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/AICTE_×_Shell_India-%23FF9900?style=flat-square"/>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+**🔧 Tech Used**
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
+`LLMs` · `Prompt Engineering` · `ML Pipelines`
+
+</td>
+<td width="60%" valign="top">
+
+**🚀 Key Contributions**
+
+- Built enterprise AI-powered solutions under AICTE × Shell India initiative
+- Implemented end-to-end ML pipelines: data ingestion → preprocessing → training → evaluation → deployment
+- Applied **prompt engineering** and **LLM integration** for intelligent automation tasks
+- Developed AI solutions aligned with industry best practices from a Fortune 500 partner
 
 </td>
 </tr>
@@ -225,47 +405,144 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 
 </details>
 
+<br/>
+
+<!--- ═══════════ MOTIONCUT ═══════════ --->
+
 <details>
-<summary><b>🤖 Edunet Foundation (AICTE + Shell India) — AI/ML Intern &nbsp;|&nbsp; Jul–Aug 2025</b></summary>
+<summary>
+<b>&nbsp;🐍&nbsp; MotionCut &nbsp;—&nbsp; Python Developer Intern &nbsp;|&nbsp; Feb–May 2025 &nbsp;|&nbsp; Remote</b>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/3_Months-%236D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Production_Apps-%233776AB?style=flat-square"/>
+</summary>
 
 <br/>
 
-- Built end-to-end ML pipelines: data ingestion → preprocessing → training → evaluation → deployment
-- Applied prompt engineering and LLM integration for intelligent automation
-- Industry-grade AI projects under AICTE × Shell India initiative
+<table>
+<tr>
+<td width="40%" valign="top">
+
+**🔧 Tech Used**
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+
+`OOP` · `Design Patterns` · `Automation` · `APIs`
+
+</td>
+<td width="60%" valign="top">
+
+**🚀 Key Contributions**
+
+- Built **production-ready Python applications** applying OOP, design patterns, and clean code principles
+- Developed automation tools, data processing scripts, and GUI-based applications
+- Strengthened software engineering fundamentals: modular design, unit testing, documentation
+- Delivered multiple projects demonstrating strong Python engineering & code quality
+
+</td>
+</tr>
+</table>
 
 </details>
-
-<details>
-<summary><b>🐍 MotionCut — Python Programming Intern &nbsp;|&nbsp; Feb–May 2025</b></summary>
 
 <br/>
 
-- Built production-ready Python applications using OOP principles and design patterns
-- Developed automation tools, data processing scripts, and GUI applications
-- Focused on software engineering fundamentals: modularity, testing, clean code
-
-</details>
+<!--- ═══════════ COGNIFYZ ═══════════ --->
 
 <details>
-<summary><b>🧪 Cognifyz Technologies — Machine Learning Intern &nbsp;|&nbsp; Nov–Dec 2024</b></summary>
+<summary>
+<b>&nbsp;🧪&nbsp; Cognifyz Technologies &nbsp;—&nbsp; Machine Learning Intern &nbsp;|&nbsp; Nov–Dec 2024 &nbsp;|&nbsp; Remote</b>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ML_Engineering-%237C3AED?style=flat-square"/>
+</summary>
 
 <br/>
 
-- Full ML workflow: data cleaning → EDA → model building → hyperparameter tuning → validation
-- Implemented ensemble methods (Random Forest, XGBoost) with advanced feature engineering
+<table>
+<tr>
+<td width="40%" valign="top">
+
+**🔧 Tech Used**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
+`Random Forest` · `XGBoost` · `Feature Engineering`
+
+</td>
+<td width="60%" valign="top">
+
+**🚀 Key Contributions**
+
+- Implemented intelligent ML models: Random Forest, XGBoost, advanced feature engineering
+- Ran complete ML workflow: data cleaning → EDA → model building → hyperparameter tuning → validation
+- Achieved strong evaluation metrics through systematic iteration and ensemble techniques
+- Applied cross-validation strategies for robust, production-ready model evaluation
+
+</td>
+</tr>
+</table>
 
 </details>
-
-<details>
-<summary><b>📊 Brainwave Matrix Solutions — Data Science Intern &nbsp;|&nbsp; Jun–Jul 2024</b></summary>
 
 <br/>
 
-- EDA using Pandas, NumPy, and Excel; statistical reports for business intelligence
-- Data visualizations (Matplotlib, Seaborn) delivering actionable business insights
+<!--- ═══════════ BRAINWAVE ═══════════ --->
+
+<details>
+<summary>
+<b>&nbsp;📊&nbsp; Brainwave Matrix Solutions &nbsp;—&nbsp; Data Science Intern &nbsp;|&nbsp; May–Jun 2024 &nbsp;|&nbsp; Remote</b>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/First_Industry_Role-%2322c55e?style=flat-square"/>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+**🔧 Tech Used**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat-square)
+
+`Excel` · `Seaborn` · `Statistical Analysis` · `EDA`
+
+</td>
+<td width="60%" valign="top">
+
+**🚀 Key Contributions**
+
+- Performed comprehensive EDA using Pandas, NumPy, and Microsoft Excel on real business datasets
+- Built data visualizations (Matplotlib, Seaborn) and statistical reports for BI reporting
+- Delivered actionable business insights from raw data, enabling data-driven decision making
+- Created interactive dashboards for stakeholder consumption
+
+</td>
+</tr>
+</table>
 
 </details>
+
+<br/>
+
+<div align="center">
+
+### 📈 Experience Impact Summary
+
+| Metric | Value |
+|:---:|:---:|
+| 🏢 **Total Internships** | **5 roles** across DS · ML · Python · AI · ISRO |
+| ⏱️ **Total Experience** | **1.5+ years** of hands-on industry work |
+| 🌐 **Companies** | Brainwave · Cognifyz · MotionCut · Edunet · ISRO-NRSC |
+| 🚀 **Highlight** | Project Student at **India's National Space Research Organisation** |
+| 🤖 **AI Apps Built** | Production RAG system · 3D-CNN · EV Forecast · Deepfake Detector |
+
+</div>
 
 ---
 
@@ -278,158 +555,238 @@ My goal: Build scalable, intelligent systems that solve real-world problems at e
 <td width="50%" valign="top">
 
 ### 🌧️ Deep Spatio-Temporal 3D-CNN
-**Rainfall Prediction using Satellite Data**
+#### Rainfall Prediction via Satellite Data
 
-![Status](https://img.shields.io/badge/Status-Active_Dev-%23a855f7?style=flat-square)
-![TF](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+<div>
+
+![Status](https://img.shields.io/badge/Status-🔄_Active_Dev-%23a855f7?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Climate_Science-%234285F4?style=flat-square)
+![Org](https://img.shields.io/badge/Built_%40-ISRO--NRSC-%23FF9900?style=flat-square)
+
+</div>
 
 ```
-NetCDF Satellite Data
-    ↓ Preprocessing
-    ↓ 3D ConvNet Encoder
-    ↓ Spatio-Temporal Attention
-    ↓ LSTM Decoder
-    → Rainfall Forecast
+📡 Satellite NetCDF Data (Multi-Source)
+           ↓
+   🔧 Preprocessing Pipeline
+    (Normalization · Augmentation)
+           ↓
+   🧠 3D ConvNet Encoder
+    (Spatio-Temporal Feature Maps)
+           ↓
+  ✨ Attention Mechanism Layer
+           ↓
+   🔁 LSTM Temporal Decoder
+           ↓
+  🌧️ Rainfall Forecast Output
 ```
 
-Deep learning model fusing satellite climate data with ground observations for accurate rainfall prediction.
+**What makes it special:**
+- 3D CNN captures patterns across **space AND time** simultaneously
+- Multi-source satellite data fusion for higher accuracy
+- Transfer learning for scarce training data
+- Scalable for real-world meteorological deployment
 
-- 3D CNN + LSTM architecture for space-time patterns
-- Multi-source satellite NetCDF data integration
-- Transfer learning for improved convergence
-- **Impact:** Disaster management & meteorology
+**Stack:** `TensorFlow` `Keras` `3D-CNN` `NetCDF4` `GDAL` `Transfer Learning`
+
+**Impact:** Disaster management · Agricultural planning · Meteorology
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Samarth AI — Agricultural RAG System
-**Production AI Advisory for Farmers**
+### 🌾 Samarth AI — Agricultural RAG
+#### AI Advisory System for Farmers
 
-![Status](https://img.shields.io/badge/Status-🟢_Live-%2310B981?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
-[![Live](https://img.shields.io/badge/🔗_projectsamarth.vercel.app-Visit-%237C3AED?style=flat-square)](https://projectsamarth.vercel.app)
+<div>
+
+![Status](https://img.shields.io/badge/🟢_Status-Live_in_Production-%2310B981?style=flat-square)
+[![Live](https://img.shields.io/badge/🔗_Live-projectsamarth.vercel.app-%237C3AED?style=flat-square)](https://projectsamarth.vercel.app)
+[![Code](https://img.shields.io/badge/GitHub-samarth--ai-%23121011?style=flat-square&logo=github)](https://github.com/vasistacv/samarth-ai)
+
+</div>
 
 ```
-Farmer's Query
-    ↓ Semantic Retriever (Vector DB)
-    ↓ Context Augmentation
-    ↓ LLM Reasoning Engine
-    → Unit-Aware Agricultural Answer
+🌾 Farmer's Natural Language Query
+           ↓
+  🔍 Semantic Retriever
+    (Vector DB · Embedding Search)
+           ↓
+  📚 Context Augmentation Layer
+    (Crop · Soil · Weather · Market)
+           ↓
+  🧠 LLM Reasoning Engine
+    (Prompt Engineering · RAG)
+           ↓
+  ✅ Unit-Aware Agricultural Answer
 ```
 
-Production-deployed RAG system providing real-time AI agricultural advisory using LangChain + LLMs.
+**What makes it special:**
+- RAG architecture — grounded answers, no hallucinations
+- Structured agricultural datasets as knowledge base
+- Unit-aware responses (kg/ha, pH levels, pricing)
+- Deployed & serving real farmers 24/7 on Vercel
 
-- LangChain RAG with structured agricultural DB
-- Intelligent prompt engineering for accuracy
-- Live on Vercel — accessible 24/7 to farmers
-- **Impact:** Democratising precision agriculture
+**Stack:** `LangChain` `LLMs` `RAG` `Streamlit` `SQLite` `Next.js`
+
+**Impact:** Democratising precision agriculture through AI
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ EV Charging Demand Prediction
-**R² Score: 0.94**
+#### R² Score: 0.94 | Deployed on Streamlit
 
+<div>
+
+![R2](https://img.shields.io/badge/R²_Score-0.94_⭐-%23c084fc?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Deployed-%2322c55e?style=flat-square)
-![R2](https://img.shields.io/badge/R²_Score-0.94-%23c084fc?style=flat-square)
-![sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+[![Code](https://img.shields.io/badge/GitHub-EV__Charge__Demand-%23121011?style=flat-square&logo=github)](https://github.com/vasistacv/EV_Charge_Demand_Prediction)
+
+</div>
 
 ```
-Historical EV Data + Temporal Features
-    ↓ Feature Engineering Pipeline
-    ↓ Random Forest Ensemble
-    ↓ Cross-Validation
-    → Demand Forecast + Dashboard
+📊 Historical EV Charging Data
+        ↓
+  🔧 Feature Engineering
+   (Temporal · Location · Grid)
+        ↓
+  🌲 Random Forest Ensemble
+   (500 Trees · Cross-Validation)
+        ↓
+  📈 Demand Forecast
+        ↓
+  📊 Streamlit Dashboard
+   (Interactive Visualizations)
 ```
 
-End-to-end ML system forecasting EV charging demand with interactive Streamlit analytics dashboard.
+**Metrics:** R² = **0.94** | Low RMSE | Validated across folds
 
-- **R² = 0.94** — Excellent predictive accuracy
-- Random Forest with ensemble cross-validation
-- Interactive Streamlit dashboard for planners
-- **Impact:** EV infrastructure investment planning
+**Stack:** `Random Forest` `Scikit-learn` `Pandas` `Streamlit` `Matplotlib`
+
+**Impact:** EV grid capacity planning · Infrastructure investment
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎭 Deepfake Detection System
-**88% Accuracy — Hybrid CNN + LSTM**
+#### 88% Accuracy | Hybrid CNN + LSTM
 
+<div>
+
+![Accuracy](https://img.shields.io/badge/Accuracy-88%25-%23c084fc?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-%236D28D9?style=flat-square)
-![Acc](https://img.shields.io/badge/Accuracy-88%25-%23c084fc?style=flat-square)
-![TF](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Computer_Vision-%235C3EE8?style=flat-square)
+
+</div>
 
 ```
-Video Input
-    ↓ OpenCV Frame Extraction
-    ↓ ResNet CNN → Spatial Artifacts
-    ↓ LSTM → Temporal Inconsistency
-    → Fake / Real Classification
+🎬 Video Input File
+        ↓
+  🎞️ OpenCV Frame Extractor
+   (Frame-by-frame pipeline)
+        ↓
+  🔬 ResNet-CNN Branch
+   (Spatial Artifact Detection)
+        ↓
+  ⏱️ LSTM Branch
+   (Temporal Inconsistency)
+        ↓
+  🔀 Feature Fusion Layer
+        ↓
+  🎯 Fake / Real Classification
 ```
 
-Hybrid deep learning architecture combining spatial and temporal analysis for real-time deepfake detection.
+**Architecture:** Hybrid spatial (ResNet) + temporal (LSTM) fusion
 
-- ResNet CNN + LSTM spatial-temporal fusion
-- Frame-by-frame video analysis pipeline
-- **88%** accuracy on benchmark datasets
-- **Impact:** Media authenticity verification
+**Stack:** `TensorFlow` `Keras` `ResNet` `LSTM` `OpenCV` `Python`
+
+**Impact:** Digital media authenticity · Misinformation detection
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🗳️ Privacy-Preserving Voting System
-**📄 Published — IJPREMS Dec 2024**
+#### 📄 Peer-Reviewed Publication — IJPREMS Dec 2024
 
-![Status](https://img.shields.io/badge/Status-Published-%23a855f7?style=flat-square)
-![Journal](https://img.shields.io/badge/IJPREMS-Dec_2024-%237C3AED?style=flat-square)
+<div>
+
+![Published](https://img.shields.io/badge/✅_Published-IJPREMS_Dec_2024-%237C3AED?style=flat-square)
+[![Paper](https://img.shields.io/badge/📄_View_Paper-IJPREMS-%236D28D9?style=flat-square)](https://www.ijprems.com/uploadedfiles/paper//issue_12_december_2024/37841/final/fin_ijprems1734775008.pdf)
+
+</div>
 
 ```
-Voter Identity
-    ↓ ECC Encryption
-    ↓ Blockchain Ledger
-    ↓ Zero-Knowledge Proof
-    → Verified Anonymous Vote
+🗳️ Voter Identity Input
+        ↓
+  🔐 ECC Key Generation
+   (Elliptic Curve Cryptography)
+        ↓
+  🔏 Zero-Knowledge Encryption
+        ↓
+  ⛓️ Blockchain Ledger Write
+   (Immutable · Distributed)
+        ↓
+  ✅ Anonymous Verified Vote
+        ↓
+  📊 Transparent Tally Output
 ```
 
-Blockchain-based secure digital voting using Elliptic Curve Cryptography for voter privacy + election integrity.
+**Stack:** `Blockchain` `ECC` `Python` `Cryptography` `Distributed Systems`
 
-- ECC for lightweight identity protection
-- Immutable tamper-proof blockchain ledger
-- Zero-knowledge voter anonymity
-- **Published & peer-reviewed internationally**
+**Impact:** Secure e-voting · Voter anonymity · Election integrity
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Self-Healing Cyber Defense System
-**🏆 1st Place — Mysterio 2025, JNNCE**
+### 🛡️ Self-Healing Cyber Defense
+#### 🏆 1st Place — Mysterio 2025, JNNCE Shivamogga
 
-![Status](https://img.shields.io/badge/🥇_1st_Place-Mysterio_2025-%23FFD700?style=flat-square)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+<div>
+
+![Award](https://img.shields.io/badge/🥇_1st_Place-Mysterio_2025-%23FFD700?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Winner-JNNCE_Shivamogga-%23FF6600?style=flat-square)
+
+</div>
 
 ```
-Network Traffic Monitor
-    ↓ ML Threat Classifier
-    ↓ Risk Scorer
-    ↓ Autonomous Response Engine
-    → Self-Healed Secure State
+🌐 Live Network Traffic Monitor
+        ↓
+  🤖 ML Threat Classifier
+   (Anomaly · Intrusion · DDoS)
+        ↓
+  📊 Risk Scorer & Prioritiser
+        ↓
+  ⚡ Autonomous Response Engine
+   (No human intervention needed)
+        ↓
+  🔄 Self-Healing Protocol
+        ↓
+  🛡️ Secured Network State
 ```
 
-Autonomous cybersecurity system with real-time ML threat detection and adaptive self-healing — **1st Place winner**.
+**Paper title:** *"Self-Healing Cyber Defense System Using Decentralized AI and Secure Cloud Storage"*
 
-- ML-powered anomaly detection & classification
-- Zero-human-intervention self-healing engine
-- Dynamic adaptive security protocols
-- **Award: 1st Place, JNNCE Shivamogga**
+**Stack:** `Python` `ML` `Decentralized AI` `Cloud Security` `Network Analysis`
+
+**Award:** 🥇 1st Place — Paper Presentation, Mysterio 2025, JNNCE
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[![All Projects](https://img.shields.io/badge/🔗_Explore_All_Projects-GitHub_@vasistacv-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Full_Portfolio-portfolio--vasistacv.vercel.app-%236D28D9?style=for-the-badge)](https://portfolio-vasistacv.vercel.app)
+
+</div>
 
 ---
 
@@ -439,20 +796,33 @@ Autonomous cybersecurity system with real-time ML threat detection and adaptive 
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center">
 
 ### 📄 Published Research Paper
 
 **"Privacy Preserving Voting System using Elliptic Curve Cryptography"**
 
+<br/>
+
 [![Journal](https://img.shields.io/badge/Journal-IJPREMS-%237C3AED?style=for-the-badge)](https://ijprems.com)
 [![Published](https://img.shields.io/badge/Published-December_2024-%23a855f7?style=for-the-badge)]()
-[![Domain](https://img.shields.io/badge/Domain-Blockchain_%7C_Cryptography_%7C_E--Governance-%23c084fc?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-✅_Peer--Reviewed-%2322c55e?style=for-the-badge)]()
+[![Peer Reviewed](https://img.shields.io/badge/Status-✅_Peer--Reviewed-%2322c55e?style=for-the-badge)]()
 
-*Proposed a blockchain-based voting system integrating ECC to ensure voter privacy while maintaining election transparency. Addresses critical challenges: security, anonymity, and cryptographic verifiability.*
+<br/>
 
-[![Next Paper](https://img.shields.io/badge/Research_Paper_%232-In_Pipeline_(AI%2FML_Domain)-%236D28D9?style=for-the-badge)]()
+[![Read Paper](https://img.shields.io/badge/📖_Read_Full_Paper-IJPREMS_Portal-%236D28D9?style=for-the-badge)](https://www.ijprems.com/uploadedfiles/paper//issue_12_december_2024/37841/final/fin_ijprems1734775008.pdf)
+
+<br/>
+
+*Proposed a novel blockchain-based voting system integrating Elliptic Curve Cryptography to ensure voter privacy while maintaining full election transparency. Addresses critical challenges in digital voting: security, anonymity, and cryptographic verifiability.*
+
+<br/>
+
+**Domain:** `Blockchain Security` · `Elliptic Curve Cryptography` · `E-Governance` · `Distributed Systems`
+
+<br/>
+
+[![Next Paper](https://img.shields.io/badge/🔬_Research_Paper_%232-In_Pipeline_(AI%2FML_Domain)-%23a855f7?style=for-the-badge)]()
 
 </td>
 </tr>
@@ -472,36 +842,74 @@ Autonomous cybersecurity system with real-time ML threat detection and adaptive 
 
 ### 🥇 Hackathon Winner
 
-![Award](https://img.shields.io/badge/1st_Place-%23FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+<br/>
+
+[![Award](https://img.shields.io/badge/🏆_1st_PLACE-%23FFD700?style=for-the-badge)]()
+
+<br/>
 
 **Mysterio 2025**
-JNNCE Shivamogga
+**JNNCE Shivamogga**
 
-*Self-Healing Cyber Defense System*
+<br/>
+
+*Paper Presentation:*
+*"Self-Healing Cyber Defense*
+*System Using Decentralized AI*
+*and Secure Cloud Storage"*
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-%236D28D9?style=flat-square)](https://github.com/vasistacv)
 
 </td>
 <td align="center" width="33%">
 
 ### 📄 Published Researcher
 
-![Published](https://img.shields.io/badge/IJPREMS-%237C3AED?style=for-the-badge)
+<br/>
+
+[![Journal](https://img.shields.io/badge/IJPREMS-International-%237C3AED?style=for-the-badge)]()
+
+<br/>
 
 **International Journal**
-December 2024
+**December 2024**
 
-*Privacy-Preserving Voting System*
+<br/>
+
+*"Privacy Preserving Voting*
+*System using Elliptic Curve*
+*Cryptography"*
+
+<br/>
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-%236D28D9?style=flat-square)](https://www.ijprems.com/uploadedfiles/paper//issue_12_december_2024/37841/final/fin_ijprems1734775008.pdf)
 
 </td>
 <td align="center" width="33%">
 
 ### 🛰️ ISRO Project Student
 
-![ISRO](https://img.shields.io/badge/ISRO--NRSC-%23FF9900?style=for-the-badge)
+<br/>
+
+[![ISRO](https://img.shields.io/badge/ISRO--NRSC-National_Space-%23FF9900?style=for-the-badge)]()
+
+<br/>
 
 **National Remote Sensing Centre**
-Sep 2025 – Jan 2026
+**Sep 2025 – Jan 2026**
+**Hyderabad, India**
 
-*AI/ML on Satellite Data*
+<br/>
+
+*AI/ML on real satellite*
+*data at India's premier*
+*space research organisation*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-%236D28D9?style=flat-square)](https://portfolio-vasistacv.vercel.app)
 
 </td>
 </tr>
@@ -515,20 +923,52 @@ Sep 2025 – Jan 2026
 
 <div align="center">
 
-![Infosys](https://img.shields.io/badge/Prompt_Engineering-Infosys_Springboard-%23f97316?style=flat-square)
-![Accenture](https://img.shields.io/badge/AI_Digital_Skills-Accenture-%23a855f7?style=flat-square)
-![VTU](https://img.shields.io/badge/NLP-VTU-%237c3aed?style=flat-square)
-![VTU2](https://img.shields.io/badge/Data_Mining-VTU-%236d28d9?style=flat-square)
-![Deloitte](https://img.shields.io/badge/Data_Analytics-Deloitte_Forage-%2322c55e?style=flat-square)
-![Google](https://img.shields.io/badge/Cybersecurity-Google_Coursera-%234285F4?style=flat-square)
-![Infosys2](https://img.shields.io/badge/Python_Basics-Infosys_Springboard-%233776AB?style=flat-square)
-![MLverse](https://img.shields.io/badge/ML_Bootcamp-Abeyaantrix_Edusoft-%23EE4C2C?style=flat-square)
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🟠 AI/ML**
+
+[![Infosys](https://img.shields.io/badge/Prompt_Engineering-Infosys_Springboard-%23f97316?style=flat-square)]()
+[![Accenture](https://img.shields.io/badge/AI_Digital_Skills-Accenture-%23a855f7?style=flat-square)]()
+[![MLverse](https://img.shields.io/badge/ML_Bootcamp-Abeyaantrix-%23EE4C2C?style=flat-square)]()
+
+</td>
+<td align="center" width="25%">
+
+**🟣 Data Science**
+
+[![VTU](https://img.shields.io/badge/NLP-VTU-%237c3aed?style=flat-square)]()
+[![VTU2](https://img.shields.io/badge/Data_Mining-VTU-%236d28d9?style=flat-square)]()
+[![Deloitte](https://img.shields.io/badge/Data_Analytics-Deloitte_Forage-%2322c55e?style=flat-square)]()
+
+</td>
+<td align="center" width="25%">
+
+**🔵 Engineering**
+
+[![Google](https://img.shields.io/badge/Cybersecurity-Google_Coursera-%234285F4?style=flat-square)]()
+[![Infosys2](https://img.shields.io/badge/Python_Basics-Infosys-%233776AB?style=flat-square)]()
+
+</td>
+<td align="center" width="25%">
+
+**🟢 Achievements**
+
+![Pubs](https://img.shields.io/badge/📄_Published-1_Paper-%237C3AED?style=flat-square)
+![Intern](https://img.shields.io/badge/💼_Internships-5_Roles-%2322c55e?style=flat-square)
+![Award](https://img.shields.io/badge/🏆_Awards-1st_Place-%23FFD700?style=flat-square)
+![Live](https://img.shields.io/badge/🚀_Live_Apps-Production-%2310B981?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 DSA & Problem Solving Progress
+## 🎯 DSA & Problem Solving
 
 <div align="center">
 
@@ -536,24 +976,24 @@ Sep 2025 – Jan 2026
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Topics Mastered
+### ✅ Mastered Topics
 
 | Topic | Status |
 |:---|:---:|
-| Arrays & Strings | ✅ |
-| Two Pointers & Sliding Window | ✅ |
-| Linked Lists (Singly/Doubly) | ✅ |
-| Stacks & Queues | ✅ |
-| Binary Trees & BST | ✅ |
-| Heaps & Priority Queues | ✅ |
-| Hashing & HashMaps | ✅ |
-| Recursion & Backtracking | ✅ |
-| Sorting (Quick/Merge/Heap) | ✅ |
-| Binary Search Variants | ✅ |
-| Dynamic Programming 1D/2D | ✅ |
-| Greedy Algorithms | ✅ |
-| BFS & DFS (Graphs) | ✅ |
-| Union-Find / Disjoint Sets | ✅ |
+| Arrays & Strings | ✅ Done |
+| Two Pointers & Sliding Window | ✅ Done |
+| Linked Lists (Singly / Doubly) | ✅ Done |
+| Stacks & Queues | ✅ Done |
+| Binary Trees & BST | ✅ Done |
+| Heaps & Priority Queues | ✅ Done |
+| Hashing & HashMaps | ✅ Done |
+| Recursion & Backtracking | ✅ Done |
+| Sorting (Quick / Merge / Heap) | ✅ Done |
+| Binary Search — All Variants | ✅ Done |
+| Dynamic Programming (1D & 2D) | ✅ Done |
+| Greedy Algorithms | ✅ Done |
+| BFS & DFS on Graphs | ✅ Done |
+| Union-Find / Disjoint Sets | ✅ Done |
 
 </td>
 <td width="50%" valign="top">
@@ -562,20 +1002,20 @@ Sep 2025 – Jan 2026
 
 | Topic | Status |
 |:---|:---:|
-| Advanced Graph Algorithms | 🔄 |
-| Dijkstra / Bellman-Ford | 🔄 |
-| Segment Trees & BIT | 🔄 |
-| Trie & String Matching | 🔄 |
-| Bit Manipulation | 🔄 |
-| System Design HLD/LLD | 🔄 |
-| Java Concurrency | 🔄 |
-| Spring Boot Backend | 🔄 |
-| AWS Cloud Architecture | 🔄 |
-| CI/CD Pipelines | 🔄 |
+| Advanced Graph Algorithms | 🔄 Active |
+| Dijkstra / Bellman-Ford / Floyd | 🔄 Active |
+| Segment Trees & BIT | 🔄 Active |
+| Trie & KMP / Z-algorithm | 🔄 Active |
+| Bit Manipulation Patterns | 🔄 Active |
+| System Design — HLD & LLD | 🔄 Active |
+| Java Concurrency & Threads | 🔄 Active |
+| Spring Boot REST Backend | 🔄 Active |
+| AWS Cloud Architecture | 🔄 Active |
+| CI/CD Pipeline Design | 🔄 Active |
 
-**Platforms:**
+**Active Platforms:**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Daily-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily_Practice-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Certified-%2300EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-Active-%232F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
@@ -587,7 +1027,7 @@ Sep 2025 – Jan 2026
 
 ---
 
-## 🗺️ Roadmap — 2025 / 2026
+## 🗺️ Learning Roadmap
 
 <div align="center">
 
@@ -596,32 +1036,31 @@ Sep 2025 – Jan 2026
 <td align="center" width="25%">
 
 **Q3 2025**
-
-![Done](https://img.shields.io/badge/✅-DONE-22c55e?style=flat-square)
+[![Done](https://img.shields.io/badge/✅-COMPLETED-%2322c55e?style=flat-square)]()
 
 ISRO-NRSC ✅
 Samarth AI Live ✅
 3D-CNN Model ✅
+Deepfake System ✅
 
 </td>
 <td align="center" width="25%">
 
 **Q4 2025**
-
-![Done](https://img.shields.io/badge/✅-DONE-22c55e?style=flat-square)
+[![Done](https://img.shields.io/badge/✅-COMPLETED-%2322c55e?style=flat-square)]()
 
 5th Internship ✅
-LangChain + RAG ✅
+LangChain RAG ✅
 EV Prediction ✅
+ECC Paper Published ✅
 
 </td>
 <td align="center" width="25%">
 
 **Q1 2026**
+[![Now](https://img.shields.io/badge/🔄-IN_PROGRESS-%23c084fc?style=flat-square)]()
 
-![Now](https://img.shields.io/badge/🔄-NOW-c084fc?style=flat-square)
-
-Java + Spring 🔄
+Java + Spring Boot 🔄
 AWS Cloud 🔄
 System Design 🔄
 DSA Grind 🔄
@@ -630,13 +1069,12 @@ DSA Grind 🔄
 <td align="center" width="25%">
 
 **Q2 2026**
+[![Next](https://img.shields.io/badge/🎯-NEXT_UP-%23a855f7?style=flat-square)]()
 
-![Next](https://img.shields.io/badge/🎯-NEXT-a855f7?style=flat-square)
-
-Graduation 🎯
-SWE Role 🎯
-AWS Deploy 🎯
-Paper #2 🎯
+B.E. Graduation 🎯
+First SWE Role 🎯
+AWS Deployment 🎯
+Research Paper #2 🎯
 
 </td>
 </tr>
@@ -650,15 +1088,44 @@ Paper #2 🎯
 
 <div align="center">
 
-| Area | Activity | Level |
+| What | Activity | Status |
 |:---|:---|:---:|
-| 🔥 DSA Practice | LeetCode daily — Arrays → Graphs → DP | ![Active](https://img.shields.io/badge/ACTIVE-%23c084fc?style=flat-square) |
-| ☕ Java Backend | OOP deep dive, Collections, Spring Boot | ![Active](https://img.shields.io/badge/ACTIVE-%23c084fc?style=flat-square) |
-| ☁️ AWS Cloud | EC2, S3, Lambda, IAM, VPC fundamentals | ![Learning](https://img.shields.io/badge/LEARNING-%23a855f7?style=flat-square) |
-| 🏗️ System Design | HLD, LLD, Scalability, DB Design | ![Learning](https://img.shields.io/badge/LEARNING-%23a855f7?style=flat-square) |
-| 🤖 AI/ML Projects | Production app development + research | ![Building](https://img.shields.io/badge/BUILDING-%237c3aed?style=flat-square) |
-| 📖 CS Fundamentals | DBMS, OS, CN for interviews | ![Studying](https://img.shields.io/badge/STUDYING-%236d28d9?style=flat-square) |
-| 💼 Job Search | SWE / ML Engineer roles (2026 grad) | ![Open](https://img.shields.io/badge/OPEN_TO_WORK-%2322c55e?style=flat-square) |
+| 🔥 DSA Practice | LeetCode daily — Arrays → Trees → Graphs → DP | ![Active](https://img.shields.io/badge/DAILY-%23c084fc?style=flat-square) |
+| ☕ Java Backend | OOP, Collections, Concurrency, Spring Boot | ![Active](https://img.shields.io/badge/ACTIVE-%23c084fc?style=flat-square) |
+| ☁️ AWS Cloud | EC2, S3, Lambda, IAM, VPC, Cloud Design | ![Learning](https://img.shields.io/badge/LEARNING-%23a855f7?style=flat-square) |
+| 🏗️ System Design | HLD, LLD, Scalability, DB Optimization | ![Learning](https://img.shields.io/badge/LEARNING-%23a855f7?style=flat-square) |
+| 🤖 AI/ML Projects | Production apps + ISRO research extension | ![Building](https://img.shields.io/badge/BUILDING-%237c3aed?style=flat-square) |
+| 📖 CS Fundamentals | DBMS, OS, CN — interview preparation | ![Studying](https://img.shields.io/badge/STUDYING-%236d28d9?style=flat-square) |
+| 🌐 Portfolio | [portfolio-vasistacv.vercel.app](https://portfolio-vasistacv.vercel.app) | ![Live](https://img.shields.io/badge/LIVE-%2322c55e?style=flat-square) |
+| 💼 Job Search | SWE / ML Eng roles — 2026 grad | ![Open](https://img.shields.io/badge/OPEN_TO_WORK-%2322c55e?style=flat-square) |
+
+</div>
+
+---
+
+## 🌐 Portfolio Highlight
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🖥️ [portfolio-vasistacv.vercel.app](https://portfolio-vasistacv.vercel.app)
+
+[![Portfolio](https://img.shields.io/badge/🌐_View_Live_Portfolio-portfolio--vasistacv.vercel.app-%236D28D9?style=for-the-badge)](https://portfolio-vasistacv.vercel.app)
+
+*Full interactive portfolio featuring: career odyssey timeline · live project demos · skill meters · AI chat assistant · contact form*
+
+**Sections:** `Home` · `Experience` · `Projects` · `Skills` · `Achievements` · `Contact`
+
+![Built With](https://img.shields.io/badge/Built_With-HTML5_%7C_CSS3_%7C_JavaScript-%23E34F26?style=flat-square)
+![Hosted On](https://img.shields.io/badge/Hosted_On-Vercel-%23000000?style=flat-square&logo=vercel)
+![Status](https://img.shields.io/badge/Status-🟢_Live_%26_Active-%2322c55e?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -670,9 +1137,9 @@ Paper #2 🎯
 
 [![SWE](https://img.shields.io/badge/💼_Software_Engineer-Backend_%7C_Full--Stack_%7C_Systems-%237C3AED?style=for-the-badge)](mailto:vasisthamanju796@gmail.com)
 
-[![ML](https://img.shields.io/badge/🤖_ML_%2F_AI_Engineer-Deep_Learning_%7C_NLP_%7C_Computer_Vision-%236D28D9?style=for-the-badge)](mailto:vasisthamanju796@gmail.com)
+[![ML Eng](https://img.shields.io/badge/🤖_ML_%2F_AI_Engineer-Deep_Learning_%7C_NLP_%7C_CV_%7C_LLMs-%236D28D9?style=for-the-badge)](mailto:vasisthamanju796@gmail.com)
 
-[![Research](https://img.shields.io/badge/🔬_Research_Collaborator-AI%2FML_%7C_Climate_Science_%7C_CV-%238B5CF6?style=for-the-badge)](mailto:vasisthamanju796@gmail.com)
+[![Research](https://img.shields.io/badge/🔬_Research_Collab-AI%2FML_%7C_Climate_Science_%7C_Security-%238B5CF6?style=for-the-badge)](mailto:vasisthamanju796@gmail.com)
 
 [![OSS](https://img.shields.io/badge/🌐_Open_Source-AI%2FML_%7C_Dev_Tools_%7C_Impactful_Projects-%23A78BFA?style=for-the-badge)](https://github.com/vasistacv)
 
@@ -688,15 +1155,15 @@ Paper #2 🎯
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vashistacv)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-vasisthamanju796%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vasisthamanju796%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_%40vasistacv-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
+[![GitHub](https://img.shields.io/badge/GitHub-@vasistacv-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-%236D28D9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--vasistacv.vercel.app-%236D28D9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
 &nbsp;&nbsp;
-[![Samarth AI](https://img.shields.io/badge/Samarth_AI-Live_Demo-%2310B981.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://projectsamarth.vercel.app)
+[![Samarth AI](https://img.shields.io/badge/Live_App-projectsamarth.vercel.app-%2310B981.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://projectsamarth.vercel.app)
 
 <br/><br/>
 
@@ -704,7 +1171,7 @@ Paper #2 🎯
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=vasistacv&color=7c3aed&style=for-the-badge&label=TOTAL+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=vasistacv&color=7c3aed&style=for-the-badge&label=TOTAL+PROFILE+VIEWS)
 
 <br/>
 
