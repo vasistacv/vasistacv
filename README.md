@@ -1,436 +1,354 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vashista%20C%20V&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Project%20Student%20@%20ISRO-NRSC%20|%20AI/ML%20Engineer&descAlignY=55&descSize=20" />
-
-# Vashista C V
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Project+Student+%40+ISRO-NRSC;AI%2FML+Engineer+%7C+Deep+Learning+Specialist;Satellite+Data+Scientist;Published+Researcher)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=vasistacv&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/vasistacv?label=Followers&style=for-the-badge&color=8b5cf6" alt="Followers" />
-<img src="https://img.shields.io/badge/ISRO-NRSC-FF6F00?style=for-the-badge&logo=spacex&logoColor=white" alt="ISRO" />
-
-**Project Student @ ISRO-NRSC | B.E. CSE | Published Researcher**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vashista%20C%20V&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Deep%20Learning%20Researcher&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
-## Professional Summary
+<div align="center">
 
-```yaml
-name: Vashista C V
-role: Project Student
-organization: ISRO-NRSC (National Remote Sensing Centre)
-location: Hyderabad, India
-education: B.E. Computer Science Engineering
-institution: Jain Institute of Technology, Davangere
-duration: September 2025 - Present
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;AI%2FML+%7C+Deep+Learning+%7C+Data+Science;Java+%7C+Python+%7C+DSA+%7C+AWS+%7C+DevOps;Former+Project+Student+%40+ISRO-NRSC)](https://git.io/typing-svg)
 
-focus_areas:
-  - Satellite Imagery Analysis
-  - Remote Sensing Applications
-  - AI/ML for Space Technology
-  - Deep Learning Research
-  - Climate Data Modeling
+<br/>
 
-expertise_level:
-  Data Science: Expert
-  Deep Learning: Expert
-  Machine Learning: Advanced
-  Computer Vision: Advanced
-  Cybersecurity: Intermediate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vashistacv)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
+
+<img src="https://komarev.com/ghpvc/?username=vasistacv&label=Profile+Views&color=6d28d9&style=flat-square" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```java
+public class VashistaCV extends SoftwareEngineer {
+
+    private static final String NAME       = "Vashista C V";
+    private static final String LOCATION   = "Davanagere, Karnataka, India";
+    private static final String DEGREE     = "B.E. Computer Science Engineering (CGPA: 8.8/10)";
+    private static final String COLLEGE    = "Jain Institute of Technology, Davangere";
+    private static final String GRAD_YEAR  = "May 2026";
+
+    private final String[] currentFocus = {
+        "Cracking DSA & System Design",
+        "Building full-stack AI/ML applications",
+        "AWS Cloud & DevOps practices",
+        "Java backend development",
+        "Deep Learning research"
+    };
+
+    private final String[] passions = {
+        "Writing clean, scalable code",
+        "Solving algorithmic challenges",
+        "Applying AI/ML to real-world problems",
+        "Building production-grade systems"
+    };
+
+    @Override
+    public String getGoal() {
+        return "Land a high-impact Software Engineering role & build systems that matter.";
+    }
+}
 ```
 
-## Core Competencies
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Technical Arsenal
 
-### Data Science & Analytics
-- Statistical Analysis & Modeling
-- Feature Engineering & Selection
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Exploratory Data Analysis
-- Predictive Modeling
-- Time Series Analysis
+<div align="center">
 
-### Deep Learning
-- Neural Network Architectures
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs, LSTMs)
-- 3D Convolutional Networks
-- Transfer Learning
-- Model Optimization & Deployment
+### Languages & Core
 
-</td>
-<td width="50%" valign="top">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Machine Learning
-- Supervised Learning (Classification, Regression)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
-- Ensemble Methods (Random Forest, XGBoost, LightGBM)
-- Model Evaluation & Validation
-- Hyperparameter Tuning
-- AutoML Techniques
+### Software Engineering
 
-### Specialized Domains
-- Satellite Data Processing
-- Remote Sensing Analysis
-- Spatio-Temporal Modeling
-- Climate Data Science
-- Cryptography & Blockchain
-- RAG Systems & LLMs
+![OOP](https://img.shields.io/badge/OOP-Design_Patterns-6D28D9?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Algorithms-7C3AED?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-Agile-8B5CF6?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System-Design-A78BFA?style=for-the-badge)
 
-</td>
-</tr>
-</table>
+### AI / ML / Deep Learning
 
-## Technology Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
-<details>
-<summary><b>Programming Languages</b></summary>
-<br>
+### Data & Analysis
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat-square&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</details>
+### Web & Backend
 
-<details>
-<summary><b>AI/ML Frameworks & Libraries</b></summary>
-<br>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+### Cloud, DevOps & Tools
 
-</details>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-6D28D9?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<details>
-<summary><b>Development & DevOps</b></summary>
-<br>
+### Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🛰️ ISRO-NRSC — Project Student</b> &nbsp;|&nbsp; Sep 2025 – Jan 2026 &nbsp;|&nbsp; Hyderabad</summary>
+
+<br/>
+
+> Applied **AI/ML and Deep Learning** to analyze real satellite imagery and remote sensing data at the **National Remote Sensing Centre, ISRO** — one of India's most prestigious space organizations.
+
+- Built and applied ML/DL pipelines to process and interpret large-scale satellite datasets
+- Worked on spatio-temporal modeling using 3D-CNN architectures for climate data
+- Collaborated with scientists on applied AI for remote sensing and environmental analysis
+- Gained hands-on experience integrating **NetCDF4** climate data with deep learning frameworks
+
+> _Note: This role was AI/ML engineering applied to satellite data — not space or satellite hardware research._
 
 </details>
 
 <details>
-<summary><b>Specialized Tools & Technologies</b></summary>
-<br>
+<summary><b>🤖 Edunet Foundation (AICTE + Shell India) — AI/Data Analytics Intern</b> &nbsp;|&nbsp; Jul 2025 – Aug 2025 &nbsp;|&nbsp; Remote</summary>
 
-![NetCDF](https://img.shields.io/badge/NetCDF-Climate_Data-4285F4?style=flat-square)
-![GDAL](https://img.shields.io/badge/GDAL-Geospatial-5CAE58?style=flat-square)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br/>
+
+- Developed AI-powered solutions using Python, ML algorithms, and deep learning frameworks
+- Built end-to-end ML pipelines: data preprocessing → model training → deployment
+- Worked on industry-grade projects in collaboration with Shell India under AICTE initiative
 
 </details>
 
-## Professional Experience
+<details>
+<summary><b>🐍 MotionCut — Python Programming Intern</b> &nbsp;|&nbsp; Feb 2025 – May 2025 &nbsp;|&nbsp; Remote</summary>
 
-```mermaid
-timeline
-    title Career Timeline
-    2024-06 : Brainwave Matrix Solutions
-            : Data Science Intern
-    2024-11 : Cognifyz Technologies
-            : Machine Learning Intern
-    2025-02 : Motioncut
-            : Python Development Intern
-    2025-07 : AICTE, Shell India & Edunet
-            : AI/ML Intern
-    2025-09 : ISRO-NRSC
-            : Project Student (Current)
-```
+<br/>
 
-### ISRO-NRSC, Hyderabad
-**Project Student** | September 2025 - Present
-- Satellite data processing and analysis using AI/ML techniques
-- Remote sensing applications for environmental monitoring
-- Research on spatio-temporal deep learning models
-- Collaboration with scientists on space technology projects
+- Built production-ready Python applications following OOP principles and software best practices
+- Developed automation tools, data processing scripts, and GUI applications
+- Strengthened skills in software design patterns and code optimization
 
-### AICTE, Shell India & Edunet Foundation
-**AI/ML Intern** | July 2025 - August 2025
-- Machine learning model development for industry applications
-- Collaborative projects with industry partners
-- Advanced ML techniques and best practices
+</details>
 
-### Motioncut
-**Python Development Intern** | February 2025 - May 2025
-- Python application development and optimization
-- Software engineering practices and code quality
-- Full-stack development projects
+<details>
+<summary><b>🧪 Cognifyz Technologies — Machine Learning Intern</b> &nbsp;|&nbsp; Nov 2024 – Dec 2024 &nbsp;|&nbsp; Remote</summary>
 
-### Cognifyz Technologies
-**Machine Learning Intern** | November 2024 - December 2024
-- ML model implementation and deployment
-- Data analysis and visualization
-- Predictive modeling projects
+<br/>
 
-### Brainwave Matrix Solutions
-**Data Science Intern** | May 2024 - June 2024
-- Data preprocessing and exploratory analysis
-- Statistical modeling and hypothesis testing
-- Business intelligence and reporting
+- Built intelligent ML models using Scikit-learn, Random Forest, and advanced feature engineering
+- Executed complete ML workflow: data cleaning → EDA → model building → evaluation → tuning
 
-## Featured Projects
+</details>
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>📊 Brainwave Matrix Solutions — Data Science Intern</b> &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Remote</summary>
 
-### Deep Spatio-Temporal 3D-CNN for Rainfall Prediction
-**Status:** Active Development  
-**Domain:** Climate Science & Deep Learning
+<br/>
 
-Architected a sophisticated deep learning model integrating satellite NetCDF climate data with ground-based observations for accurate rainfall prediction.
+- Performed comprehensive data analysis using Python (Pandas, NumPy) and Excel
+- Built data visualizations and statistical reports to derive actionable business insights
 
-**Key Features:**
-- Advanced 3D convolutional layers for spatio-temporal pattern extraction
-- Integration of multiple satellite data sources
-- High-resolution meteorological forecasting
-- Scalable architecture for large-scale climate data
+</details>
 
-**Technologies:**
-- Python, TensorFlow, 3D-CNN
-- NetCDF4, Climate Data Analysis
-- Satellite Data Processing
+---
 
-**Impact:** Improving forecast accuracy for meteorological applications and disaster management
+## 🚀 Featured Projects
 
-</td>
-<td width="50%">
+### 🌧️ Deep Spatio-Temporal 3D-CNN for Rainfall Prediction
+> `3D-CNN` `Keras` `NetCDF4` `Transfer Learning` `Climate Science`
 
-### Samarth AI - Agricultural Intelligence System
-**Status:** Production  
-**Link:** [projectsamarth.vercel.app](https://projectsamarth.vercel.app)
+Architected a sophisticated deep learning model that fuses satellite NetCDF climate data with ground-based meteorological observations to predict rainfall with high accuracy.
 
-Production-ready Retrieval-Augmented Generation (RAG) system providing real-time agricultural advisory to farmers using large language models.
+- Implemented advanced **spatio-temporal 3D convolutional layers** for pattern extraction across space and time
+- Integrated multi-source satellite data for improved forecast reliability
+- Designed scalable architecture capable of handling large-scale climate datasets
 
-**Key Features:**
-- LangChain-based RAG architecture
-- Real-time query processing
-- Multi-language support
-- Scalable vector database
+**Impact:** Improving forecast accuracy for disaster management and meteorological agencies
 
-**Technologies:**
-- LangChain, Python
-- Next.js, Vercel
-- Vector Databases, LLMs
+---
 
-**Impact:** Empowering farmers with AI-driven agricultural insights
+### 🌾 Samarth AI — Agricultural RAG System
+> `LangChain` `LLMs` `RAG` `Streamlit` `SQLite` `Prompt Engineering` &nbsp;|&nbsp; 🔗 [projectsamarth.vercel.app](https://projectsamarth.vercel.app)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Production-deployed Retrieval-Augmented Generation (RAG) system that provides real-time, unit-aware agricultural advisory to farmers using LLMs and structured data.
 
-### Self-Healing Cyber Defense System
-**Achievement:** 1st Place - Mysterio 2025, JNNCE Shivamogga
+- Built **end-to-end RAG pipeline** integrating structured agricultural datasets with LLM reasoning
+- Designed intelligent prompt engineering for accurate, domain-specific responses
+- Deployed on Vercel — live and accessible to farmers
 
-Autonomous cybersecurity system with real-time threat detection and self-healing capabilities.
+---
 
-**Key Features:**
-- Autonomous threat detection
-- Real-time mitigation strategies
-- Self-healing mechanisms
-- Adaptive security protocols
+### ⚡ EV Charging Demand Prediction System
+> `Random Forest` `Scikit-learn` `Streamlit` `Feature Engineering` &nbsp;|&nbsp; R² Score: **0.94**
 
-**Technologies:**
-- Python, Machine Learning
-- Cybersecurity Tools
-- Network Analysis
+Engineered and deployed a full Random Forest regression pipeline for forecasting electric vehicle charging demand with an interactive Streamlit dashboard.
 
-**Recognition:** Winner of prestigious hackathon competition
+- Achieved **R² = 0.94** using ensemble methods and advanced feature engineering
+- Built interactive dashboard for infrastructure planning insights
+- Incorporated statistical validation and ensemble techniques for robustness
 
-</td>
-<td width="50%">
+---
 
-### EV Charge Demand Prediction
-**Accuracy:** R² Score 0.94  
-**Repository:** [GitHub](https://github.com/vasistacv/EV_Charge_Demand_Prediction)
+### 🎭 Deepfake Detection System
+> `ResNet-CNN` `LSTM` `TensorFlow` `OpenCV` `Computer Vision` &nbsp;|&nbsp; Accuracy: **88%**
 
-High-accuracy predictive model for electric vehicle charging demand forecasting.
+Hybrid deep learning architecture combining spatial and temporal analysis to detect manipulated video content in real-time.
 
-**Key Features:**
-- Random Forest ensemble model
-- Feature engineering for temporal patterns
-- Infrastructure planning insights
-- Scalable prediction pipeline
+- Fused **ResNet-based CNN** (spatial features) with **LSTM** (temporal sequence modeling)
+- Achieved 88% accuracy on benchmark forged video datasets
+- Designed for real-time frame-by-frame video analysis
 
-**Technologies:**
-- Python, Scikit-learn
-- Pandas, Data Visualization
-- Statistical Modeling
+---
 
-**Impact:** Supporting EV infrastructure development
+### 🗳️ Privacy-Preserving Voting System
+> `Blockchain` `Elliptic Curve Cryptography` `Python` `Distributed Systems` &nbsp;|&nbsp; 📄 Published
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+A blockchain-based secure voting system implementing ECC to guarantee voter anonymity while maintaining full election transparency and integrity.
 
-### Deepfake Detection System
-**Accuracy:** 88%  
-**Domain:** Computer Vision & Deep Learning
+- Leveraged **ECC** for cryptographically secure voter identity protection
+- Built tamper-proof blockchain architecture for voting records
+- **Published** in IJPREMS (International Journal of Progressive Research in Engineering Management and Science), December 2024
 
-Hybrid architecture combining ResNet-CNN and LSTM for real-time deepfake detection in video content.
+---
 
-**Key Features:**
-- Hybrid ResNet-CNN + LSTM architecture
-- Real-time video analysis
-- Frame-by-frame detection
-- High accuracy on benchmark datasets
+### 🛡️ Self-Healing Cyber Defense System
+> `Python` `Machine Learning` `Cybersecurity` `Network Analysis` &nbsp;|&nbsp; 🏆 1st Place Winner
 
-**Technologies:**
-- TensorFlow, OpenCV
-- ResNet, LSTM
-- Computer Vision
+Autonomous cybersecurity system with real-time threat detection and adaptive self-healing capabilities.
 
-**Impact:** Contributing to digital media authenticity
+- Autonomous detection and real-time mitigation of cyber threats
+- Implemented adaptive security protocols with self-healing mechanisms
+- **Won 1st Place** at Mysterio 2025, JNNCE Shivamogga
 
-</td>
-<td width="50%">
+---
 
-### Privacy-Preserving Voting System
-**Publication:** IJPREMS, December 2024
-
-Blockchain-based secure voting system with Elliptic Curve Cryptography ensuring voter privacy and election integrity.
-
-**Key Features:**
-- Blockchain-based architecture
-- Elliptic Curve Cryptography (ECC)
-- Voter anonymity preservation
-- Tamper-proof voting records
-
-**Technologies:**
-- Blockchain, Python
-- Cryptography, ECC
-- Distributed Systems
-
-**Recognition:** Published research paper
-
-</td>
-</tr>
-</table>
-
-## Publications & Research
-
-**Privacy-Preserving Voting System using Blockchain and Elliptic Curve Cryptography**  
-*International Journal of Progressive Research in Engineering Management and Science (IJPREMS)*  
-Published: December 2024
-
-**Abstract:** Proposed a novel blockchain-based voting system integrating Elliptic Curve Cryptography to ensure voter privacy while maintaining election transparency and integrity. The research addresses critical challenges in digital voting systems including security, anonymity, and verifiability.
-
-## Achievements & Recognition
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**Competition Winner**
-
-1st Place  
-Mysterio 2025  
-JNNCE Shivamogga
-
-*Self-Healing Cyber Defense System*
-
-</td>
-<td align="center" width="33%">
-
-**Published Researcher**
-
-IJPREMS Journal  
-December 2024
-
-*Privacy-Preserving Voting System*
-
-</td>
-<td align="center" width="33%">
-
-**ISRO Project Student**
-
-National Remote Sensing Centre  
-September 2025 - Present
-
-*Satellite Data Processing & AI/ML*
-
-</td>
-</tr>
-</table>
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/vasistacv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&theme=default&hide_border=true&title_color=6366F1&text_color=333333&bg_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasistacv&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d0d1a&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasistacv&layout=compact&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d1a&langs_count=8"/>
 </a>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vasistacv&theme=default&hide_border=true&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6&background=ffffff&stroke=333333&dates=333333&sideNums=333333&sideLabels=333333&currStreakNum=6366F1"/>
+<br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=github-compact&hide_border=true&bg_color=ffffff&color=6366F1&line=8B5CF6&point=333333&area=true&area_color=6366F1"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vasistacv&hide_border=true&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&background=0d0d1a&stroke=1a1a2e&dates=c4b5fd&sideNums=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vasistacv&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<br/><br/>
 
-</div>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasistacv&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true"/>
 
-## Contribution Activity
+<br/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Current Focus
-
-**Research Areas:**
-- Spatio-temporal deep learning for climate prediction
-- Satellite data processing with AI/ML
-- Advanced computer vision techniques
-- Large language models and RAG systems
-
-**Learning:**
-- Advanced neural architecture search
-- Distributed deep learning
-- MLOps and model deployment
-- Quantum machine learning fundamentals
-
-**Building:**
-- Production-grade AI/ML systems
-- Research projects at ISRO-NRSC
-- Open-source contributions
-- Technical documentation and knowledge sharing
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vashistacv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasistacv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
+<img src="https://github-profile-trophy.vercel.app/?username=vasistacv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
 </div>
 
+---
+
+## 🏅 Achievements & Certifications
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🥇 **Winner** — Mysterio 2025 | 1st Place, Paper Presentation, JNNCE Shivamogga |
+| 📄 **Published Researcher** | IJPREMS — Privacy-Preserving Voting System using ECC, Dec 2024 |
+| 🛰️ **ISRO-NRSC Project Student** | AI/ML applied to satellite data, National Remote Sensing Centre |
+| 🎓 **8.8 CGPA** | B.E. CSE, Jain Institute of Technology, Davangere |
+
+**Certifications:**
+- 🟣 Prompt Engineering — *Infosys Springboard*
+- 🔵 Digital Skills: AI — *Accenture*
+- 🟢 NLP & Data Mining — *VTU*
+- 🟡 Data Analytics Job Simulation — *Deloitte Australia (Forage)*
+- 🔴 Foundations of Cybersecurity — *Google / Coursera*
+- ⚪ Basics of Python — *Infosys Springboard*
+- 🟠 MLverse ML Boot Camp — *Abeyaantrix Edusoft LLP*
+
+---
+
+## 📚 Publications
+
+**"Privacy Preserving Voting System using Elliptic Curve Cryptography"**
+*International Journal of Progressive Research in Engineering Management and Science (IJPREMS)*
+Published: December 2024
+
+---
+
+## 🎯 Current Focus & Learning Roadmap
+
+```
+🔥 Actively Working On:
+   ├── Data Structures & Algorithms (LeetCode / Problem Solving)
+   ├── Java — OOP, Collections, Spring Boot basics
+   ├── System Design — Scalability, HLD/LLD
+   ├── AWS — Cloud fundamentals & services
+   ├── DevOps — CI/CD, Docker, GitHub Actions
+   └── Full-Stack AI/ML application development
+
+📖 Building Deeper Knowledge In:
+   ├── Advanced Deep Learning (Transformers, Attention Mechanisms)
+   ├── MLOps — Model deployment & monitoring
+   ├── Database Design & Query Optimization
+   └── Software Architecture & Design Patterns
+
+🚀 Goal:
+   └── Secure a high-impact Software Engineering role where I can
+       build scalable, intelligent systems that solve real-world problems
+```
+
+---
+
+## 🤝 Open To
+
+- 💼 **Full-Time SWE / AI-ML Engineering Roles**
+- 🔬 **Research Collaborations** — AI, ML, Deep Learning
+- 🌐 **Open Source Contributions**
+- 📢 **Technical Discussions** — DSA, System Design, AI/ML
+
+---
+
 <div align="center">
 
-**Open to collaboration on research projects, AI/ML initiatives, and innovative technology solutions**
+*"Write code that humans can read, machines can run, and future you will thank you for."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vasistacv.vasistacv)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vashistacv)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasisthamanju796@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vasistacv.vercel.app)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
